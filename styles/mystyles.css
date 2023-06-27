@@ -1,0 +1,84 @@
+/*
+Georgia Riggs
+BMIS 235
+June 26, 2023
+*/
+.slogan {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.slogan2 {
+    color: navy;
+    font-weight: bolder;
+}
+
+.contact {
+    color: navy;
+    font-weight: bold
+}
+
+.center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.titles {
+    letter-spacing: 10px;
+    color: white;
+}
+
+a:visited {
+    color: darkgrey;
+}
+
+.images {
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bground {
+    background-position: bottom
+}
+
+.listitems {
+    font-weight: bold
+}
+
+.text {
+    font-weight: normal
+}
+
+.anchor {
+    color: white
+}
+
+.center2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px;
+}
+
+.image1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px
+}
+
+.smalltext {
+    font-weight: 300;
+    font-size: 16px;
+    color: navy
+}
+
+.smalltext1 {
+    font-weight: 300;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    font-style: italic
+}
